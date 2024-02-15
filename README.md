@@ -13,7 +13,6 @@ This is a portfolio website created by Gokul Uvaraj showcasing their skills and 
 
 - HTML
 - CSS
-- JavaScript
 
 ## How to Run
 
