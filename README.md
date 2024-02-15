@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a portfolio website created by Gokul Uvaraj showcasing their skills and projects as a web developer. The website is built using HTML, CSS, and JavaScript. It features sections highlighting the developer's background, skills, interests, and projects.
+This is a portfolio website created by Gokul Uvaraj showcasing their skills and projects as a web developer. The website is built using HTML, CSS. It features sections highlighting the developer's background, skills, interests, and projects.
 
 ## Features
 
