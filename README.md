@@ -1,4 +1,4 @@
-Portfolio Website
+#Portfolio Website
 This repository contains the code for my personal portfolio website. The website showcases my skills, projects, interests, and provides a means to contact me. The website is built using HTML and CSS and consists of two main pages:
 
 Home Page: The home page introduces visitors to me, Gokul Uvaraj, as a web developer. It provides an overview of my skills, expertise, and a brief description of myself. Additionally, it highlights some of my key projects and interests.
