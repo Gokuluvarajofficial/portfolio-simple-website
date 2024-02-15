@@ -1,15 +1,28 @@
-#Portfolio Website
-This repository contains the code for my personal portfolio website. The website showcases my skills, projects, interests, and provides a means to contact me. The website is built using HTML and CSS and consists of two main pages:
+# Portfolio Website
 
-Home Page: The home page introduces visitors to me, Gokul Uvaraj, as a web developer. It provides an overview of my skills, expertise, and a brief description of myself. Additionally, it highlights some of my key projects and interests.
+This is a portfolio website created by Gokul Uvaraj showcasing their skills and projects as a web developer. The website is built using HTML, CSS, and JavaScript. It features sections highlighting the developer's background, skills, interests, and projects.
 
-Contact Page: The contact page allows visitors to reach out to me. It features a simple contact form where users can input their name, email, and message to send inquiries or messages directly to me.
+## Features
 
-Features:
-Responsive design: The website is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
-Styling with CSS: The layout and styling of the website are implemented using CSS, with custom styles to enhance visual appeal and readability.
-Integration with Google Fonts: The website utilizes Google Fonts to enhance typography and improve overall design aesthetics.
-Technologies Used:
-HTML
-CSS
-Google Fonts
+- **About Me:** Brief introduction and overview of Gokul Uvaraj's skills and expertise.
+- **Interests:** A list of personal interests.
+- **Projects:** Highlights of notable projects, including descriptions.
+- **Contact:** A form for visitors to get in touch with the developer.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+
+To view the website locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+
+## Contact
+
+For any inquiries or collaboration opportunities, feel free to reach out to Gokul Uvaraj via email at gokuofficial@gmail.com.
+
